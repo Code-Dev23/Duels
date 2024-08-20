@@ -1,0 +1,8 @@
+mysql:
+  host: ""
+  port: ""
+  database: ""
+  username: ""
+  password: ""
+
+end_duel_spawn:

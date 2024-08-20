@@ -1,0 +1,4 @@
+name: Duels
+version: '${version}'
+main: it.scopped.duels.Duels
+load: POSTWORLD
